@@ -5,3 +5,5 @@ Real-time patient data analytics platform using Python, Spark, and machine learn
 
 - Real-time data processing
 - Predictive analyticsand treatment optimization.
+- - ML-powered insights
+- Healthcare data integration
